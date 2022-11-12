@@ -30,3 +30,5 @@ B	70-79
 C	60-69
 D	50-59
 U	under 50
+
+I struggled building this project, but I finally figured out how to complete it. 
